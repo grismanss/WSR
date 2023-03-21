@@ -1,0 +1,10 @@
+body{
+    background-color: aqua;
+}
+.top-menu li {
+	display: inline-block;
+}
+.carusel{
+    background-image: url("header3.jpg");
+    height: 100px;
+}
